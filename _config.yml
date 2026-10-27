@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ο ιστοχώρος αυτός αναπτύχτηκε από τους Αγνή Εξάρχου & Αλέξανδρο Μπουντούρη,
   στα πλαίσια εργασίας του μαθήματος "Εργαλεία Προβολής Τουριστικού & Πολιτιστικού Προϊόντος"
   του ΠΜΣ "Ψηφιακές Εφαρμογές & Καινοτομία" του Ιονίου Πανεπιστημίου.
-baseurl: "/heritage-promotion" # the subpath of your site, e.g. /blog
-url: "https://agni-ionio.github.io/heritage-promotion/"
+url: "https://aboudouris.github.io"
+baseurl: "/heritage-promotion"
 author:
 name: "Αγνή Εξάρχου & Αλέξανδρος Μπουντούρης"
 # twitter_username: jekyllrb
