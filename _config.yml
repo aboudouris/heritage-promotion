@@ -30,6 +30,7 @@ markdown: kramdown
 theme: minima
 header_pages:
   - pois.md
+  - map.md
   - activities.md
   - visitor-guide.md
   - ar-experience.md
