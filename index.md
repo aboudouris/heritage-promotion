@@ -13,8 +13,8 @@ layout: default
   <div style="height:140px;"></div>
 
   <p style="color:white; font-size:1.5rem; font-weight:500; letter-spacing:1px;">
-  Discover the Untamed West - 
-  Rivers, Mountains & Hidden Heritage
+  Discover the Untamed West 
+  
   </p>
 
   <a href="/heritage-promotion/pois/"
