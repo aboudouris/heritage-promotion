@@ -13,7 +13,7 @@ layout: default
   <div style="height:140px;"></div>
 
   <p style="color:white; font-size:1.5rem; font-weight:500; letter-spacing:1px;">
-  Discover the Untamed West 
+  Discover the Untamed West - 
   Rivers, Mountains & Hidden Heritage
   </p>
 
@@ -29,5 +29,5 @@ layout: default
 ## Καλωσορίσατε
 
 <p style="text-align: justify;">  
-Το Beyond the Blue σας ταξιδεύει σε εναλλακτικούς προορισμούς για εκδρομές, χαλάρωση και αυθεντικές αποδράσεις στην ελληνική φύση. Ανακαλύψτε λίμνες, ποτάμια, φαράγγια και ορεινά τοπία που προσφέρουν μια ξεχωριστή εμπειρία επαφής με την ύπαιθρο.
+Το Beyond the Blue Greece σας ταξιδεύει σε εναλλακτικούς προορισμούς για εκδρομές, χαλάρωση και αυθεντικές αποδράσεις στην ελληνική φύση. Ανακαλύψτε λίμνες, ποτάμια, φαράγγια και ορεινά τοπία που προσφέρουν μια ξεχωριστή εμπειρία επαφής με την ύπαιθρο.
 </p>
