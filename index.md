@@ -25,7 +25,7 @@ layout: default
 </div>
 
 </div>
-
+ 
 ## Καλωσορίσατε
 
 <p style="text-align: justify;">  
