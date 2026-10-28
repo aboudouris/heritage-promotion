@@ -7,18 +7,19 @@ layout: default
 <div style="position:absolute; inset:0; background:rgba(0,0,0,0.20); text-align:center;">
 
   <h1 style="color:white; font-size:3rem; margin-top:90px;">
-    Beyond the Blue
+    Beyond the Blue Greece
   </h1>
 
   <div style="height:140px;"></div>
 
   <p style="color:white; font-size:1.5rem; font-weight:500; letter-spacing:1px;">
-  Μια Διαφορετική Ελλάδα
+  Discover the Untamed West 
+  Rivers, Mountains & Hidden Heritage
   </p>
 
   <a href="/heritage-promotion/pois/"
      style="display:inline-block; margin-top:20px; background:#1b7f5a; color:white; padding:12px 24px; border-radius:30px; text-decoration:none; font-weight:bold;">
-  ✨Ανακαλύψτε τα Διαμάντια της
+  ✨Rivers, Mountains & Hidden Heritage
   </a>
 
 </div>
