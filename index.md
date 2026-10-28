@@ -39,3 +39,43 @@ Beyond the Blue Greece – Ανακαλύψτε μια Ελλάδα πέρα α�
 
 
 </p>
+
+
+<div style="margin:45px 0;">
+
+  <h2 style="color:#1b4332; text-align:center;">
+    🗺️ Εξερευνήστε τους Προορισμούς μας
+  </h2>
+
+  <p style="text-align:center; color:#555;">
+    Ανακαλύψτε ποτάμια, λίμνες, μονοπάτια
+    και ιστορικά μνημεία στη Δυτική Ελλάδα.
+    Επιλέξτε ένα σημείο στον χάρτη
+    και σχεδιάστε τη δική σας απόδραση!
+  </p>
+
+  <iframe
+    src="{{ '/map.html' | relative_url }}"
+    title="Διαδραστικός Χάρτης Beyond the Blue Greece"
+    width="100%"
+    height="650"
+    style="border:0; border-radius:16px;
+           box-shadow:0 5px 20px rgba(0,0,0,0.12);"
+    loading="lazy">
+  </iframe>
+
+  <div style="text-align:center; margin-top:20px;">
+    <a href="{{ '/map.html' | relative_url }}"
+       style="display:inline-block;
+              background:#2d6a4f;
+              color:white;
+              padding:12px 25px;
+              border-radius:25px;
+              text-decoration:none;
+              font-weight:bold;">
+      🌍 Προβολή Χάρτη σε Πλήρη Οθόνη
+    </a>
+  </div>
+
+</div>
+
