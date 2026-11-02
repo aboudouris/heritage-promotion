@@ -56,8 +56,7 @@ Beyond the Blue Greece – Ανακαλύψτε μια Ελλάδα πέρα α�
     🗺️ Ανακαλύψτε τη Δυτική Ελλάδα
   </h2>
 
-  <p style="text-align:center; color:#555;
-            line-height:1.8; margin-bottom:30px;">
+  <p style="text-align:center; color:#555; line-height:1.8; margin-bottom:30px;">
     Από τα επιβλητικά φαράγγια του Ζαγορίου
     έως τις γαλήνιες λίμνες της Στερεάς Ελλάδας
     και τα ορμητικά ποτάμια της Ηπείρου,
