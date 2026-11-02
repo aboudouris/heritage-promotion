@@ -114,7 +114,7 @@ permalink: /pois/
 
 <section id="categories" class="dest-section">
   <h2>🔎 Προορισμοί ανά κατηγορία</h2>
-  <p>Κάτω από κάθε κατηγορία εμφανίζονται οι αντίστοιχοι προορισμοί από τα πραγματικά αρχεία <code>_pois</code>.</p>
+  <p>Κάτω από κάθε κατηγορία εμφανίζονται οι αντίστοιχοι προορισμοί από τα πραγματικά αρχεία.</p>
   {% assign category_keys = "lake|river|mountain|trail|monument|archaeological" | split: "|" %}
   {% for current_category in category_keys %}
     {% assign category_pois = sorted_pois | where: "category", current_category %}
