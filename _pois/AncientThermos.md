@@ -25,11 +25,26 @@ load_leaflet: 1
 - **Αρχαιολογικό Μουσείο:** Γνωριμία με τα ευρήματα και την ιστορική εξέλιξη της περιοχής.
 - **Συνδυαστική εκδρομή:** Επίσκεψη στη λίμνη Τριχωνίδα την ίδια ημέρα.
 
-<div style="position: relative; max-width: 100%; min-height: 220px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.12); margin: 30px 0; background: linear-gradient(135deg, #1b4332, #40916c);">
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 30px 18px; min-height: 220px; box-sizing: border-box;">
-    <span style="color: #d8f3dc; font-size: 0.7rem; font-weight: 700; letter-spacing: 1.3px; text-transform: uppercase;">Explore the destination</span>
-    <h3 style="color: #ffffff; margin: 12px 0 18px 0; font-size: 1.25rem;">Αρχαιολογικός Χώρος Θέρμου</h3>
-    <a href="https://www.google.com/maps/search/?api=1&amp;query=%CE%91%CF%81%CF%87%CE%B1%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C%CF%82%20%CE%A7%CF%8E%CF%81%CE%BF%CF%82%20%CE%98%CE%AD%CF%81%CE%BC%CE%BF%CF%85%20%CE%98%CE%AD%CF%81%CE%BC%CE%BF%2C%20%CE%91%CE%B9%CF%84%CF%89%CE%BB%CE%BF%CE%B1%CE%BA%CE%B1%CF%81%CE%BD%CE%B1%CE%BD%CE%AF%CE%B1" target="_blank" rel="noopener noreferrer" style="background-color: #ffffff; color: #1b4332; text-decoration: none; padding: 10px 22px; border-radius: 25px; font-weight: 700; font-size: 0.9rem;">📍 Δείτε την περιοχή στον χάρτη</a>
+<div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://raw.githubusercontent.com/aboudouris/heritage-promotion/AlexAgni/assets/images/ancientThermo.jpg') center/cover no-repeat;">
+  
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(180deg, rgba(0,0,0,0) 50%, rgba(15, 30, 20, 0.6) 100%); display: flex; flex-direction: column; justify-content: space-between; padding: 18px; box-sizing: border-box;">
+    
+   <div style="position: absolute; top: 8px; left: 8px;">
+      <span style="background: rgba(255, 255, 255, 0.25); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); color: #ffffff; font-size: 0.65rem; font-weight: 600; padding: 4px 10px; border-radius: 12px; text-transform: uppercase; letter-spacing: 1px; border: 1px solid rgba(255,255,255,0.3);">
+        4K Aerial View
+      </span>
+    </div>
+
+    <div style="text-align: center; margin-top: auto;">
+      <h3 style="color: #ffffff; margin: 0 0 10px 0; font-size: 1.2rem; font-weight: 600; text-shadow: 0 2px 4px rgba(0,0,0,0.8);">
+        Εξερευνήστε τον Αρχαιολογικό Χώρο Θέρμου
+      </h3>
+
+      <a href="https://www.youtube.com/watch?v=jH9wscZm8HA" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 8px; background-color: #2d6a4f; color: #ffffff; text-decoration: none; padding: 8px 20px; border_radius: 25px; font-weight: 500; font-size: 0.88rem; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.2);">
+        <span>🎬</span> Προβολή Βίντεο
+      </a>
+    </div>
+
   </div>
 </div>
 
