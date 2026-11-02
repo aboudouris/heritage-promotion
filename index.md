@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="position:relative; height:500px; border-radius:20px; overflow:hidden; margin-bottom:40px; background:url('https://agni-ionio.github.io/heritage-promotion/assets/images/panorama2.jpg') center center/cover no-repeat;">
+<div style="position:relative; height:500px; border-radius:20px; overflow:hidden; margin-bottom:40px; background:url('https://raw.githubusercontent.com/aboudouris/heritage-promotion/AlexAgni/assets/images/panorama 2.jpg') center center/cover no-repeat;">
 
 <div style="position:absolute; inset:0; background:rgba(0,0,0,0.20); text-align:center;">
 
