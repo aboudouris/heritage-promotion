@@ -4,21 +4,7 @@ layout: default
 
 <div style="position:relative; height:500px; border-radius:20px; overflow:hidden; margin-bottom:40px; background:url('https://raw.githubusercontent.com/aboudouris/heritage-promotion/AlexAgni/assets/images/beyondblue.png') center center/cover no-repeat;">
 
-<div style="position:absolute; inset:0; background:rgba(0,0,0,0.20); text-align:center;">
-  
-  <div style="height:140px;"></div>
-  
-  <div style="text-align:center; margin-top:240px;">
-  <a href="/heritage-promotion/pois/"
-     style="display:inline-block; background:#1b7f5a; color:white; padding:12px 24px; border-radius:30px; text-decoration:none; font-weight:bold;">
-    ✨Rivers, Mountains & Hidden Heritage
-  </a>
 </div>
-
-</div>
-
-</div>
-
 
 <div style="position:absolute; inset:0; background:rgba(0,0,0,0.20);
             display:flex; justify-content:center; align-items:flex-end;
@@ -32,8 +18,6 @@ layout: default
   </a>
 
 </div>
-
-
  
 ## Καλωσορίσατε
 
