@@ -29,8 +29,7 @@ permalink: /map.html
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-// Τα ονόματα αρχείων είναι ο κατάλογος των 15 επιλεγμένων σημείων.
-// Δεν απαιτείται αλλαγή στα ήδη υπάρχοντα YAML front matters.
+
 const pois = [
 {% assign separator = "" %}
 {% for p in site.pois %}
