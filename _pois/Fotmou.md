@@ -8,6 +8,45 @@ load_leaflet: 1
 ---
 
 ## Παραλία Φωτμού στη Λίμνη Τριχωνίδα
+
+<div style="
+  position:relative;
+  height:340px;
+  border-radius:16px;
+  overflow:hidden;
+  margin:30px 0;
+  background:
+    linear-gradient(180deg,
+      rgba(0,0,0,0.05),
+      rgba(0,0,0,0.7)),
+    url('https://commons.wikimedia.org/wiki/Special:FilePath/Papingo_rock_pools.jpg?width=1200')
+    center/cover no-repeat;
+  box-shadow:0 10px 25px rgba(0,0,0,0.15);
+">
+
+  <div style="
+    position:absolute;
+    inset:0;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:flex-end;
+    text-align:center;
+    padding:25px;
+  ">
+    <h3 style="
+      color:white;
+      font-size:1.5rem;
+      text-shadow:0 2px 5px #000;
+    ">
+      Κολυμπήθρες Ρογκοβού
+    </h3>
+  </div>
+</div>
+
+
+
+
 *(Περιοχή: Φωτμού, λίμνη Τριχωνίδα, Αιτωλοακαρνανία)*
 
 <p style="text-align: justify;">
