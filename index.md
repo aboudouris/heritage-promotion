@@ -1,6 +1,12 @@
 ---
 layout: default
+title: "Ανακαλύψτε τη διαφορετική Ελλάδα"
+description: >-
+  Ανακαλύψτε φυσικούς και πολιτιστικούς προορισμούς στην Ελλάδα:
+  ποτάμια, λίμνες, φαράγγια, πεζοπορικές διαδρομές και ιστορικά μνημεία.
+  Βρείτε ιδέες για δραστηριότητες και οργανώστε την επόμενη απόδρασή σας.
 ---
+
 
 <div style="position:relative; height:500px; border-radius:20px; overflow:hidden; margin-bottom:40px; background:url('https://raw.githubusercontent.com/aboudouris/heritage-promotion/AlexAgni/assets/images/beyondblue.png') center center/cover no-repeat;">
 
