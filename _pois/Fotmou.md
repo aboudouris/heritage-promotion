@@ -24,7 +24,7 @@ load_leaflet: 1
 - **Παραλίμνιος περίπατος:** Χαλαρή εξερεύνηση των όχθεων.
 - **Παρατήρηση φύσης:** Γνωριμία με τη βλάστηση και την ορνιθοπανίδα της Τριχωνίδας.
 
-<div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://raw.githubusercontent.com/aboudouris/heritage-promotion/AlexAgni/assets/images/fotmou.jpg') center/cover no-repeat;">
+<div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://raw.githubusercontent.com/aboudouris/heritage-promotion/AlexAgni/assets/images/fotmou.png') center/cover no-repeat;">
   
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(180deg, rgba(0,0,0,0) 50%, rgba(15, 30, 20, 0.6) 100%); display: flex; flex-direction: column; justify-content: space-between; padding: 18px; box-sizing: border-box;">
     
