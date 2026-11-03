@@ -19,7 +19,7 @@ load_leaflet: 1
     linear-gradient(180deg,
       rgba(0,0,0,0.05),
       rgba(0,0,0,0.7)),
-    url('https://commons.wikimedia.org/wiki/Special:FilePath/Papingo_rock_pools.jpg?width=1200')
+    url('https://raw.githubusercontent.com/aboudouris/heritage-promotion/AlexAgni/assets/images/fotmou2.jpg')
     center/cover no-repeat;
   box-shadow:0 10px 25px rgba(0,0,0,0.15);
 ">
