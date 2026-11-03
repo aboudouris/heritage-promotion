@@ -37,7 +37,7 @@ load_leaflet: 1
 
     <div style="text-align: center; margin-top: auto;">
       <h3 style="color: #ffffff; margin: 0 0 10px 0; font-size: 1.2rem; font-weight: 600; text-shadow: 0 2px 4px rgba(0,0,0,0.8);">
-            Εξερευνήστε τη Μονή 
+            Εξερευνήστε τη Μονή <br> 
         Αγίας Παρασκευής Μονοδενδρίου
       </h3>
 
