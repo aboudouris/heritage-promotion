@@ -45,6 +45,15 @@ load_leaflet: 1
   </div>
 </div>
 
+<p style="font-size:0.75rem;color:#666;">
+  Φωτογραφία:
+  <a href="https://commons.wikimedia.org/wiki/File:Papingo_rock_pools.jpg"
+     target="_blank" rel="noopener">
+    TatiTobePreskocilo / Wikimedia Commons
+  </a>
+  · CC BY-SA 4.0
+</p>
+
 
 *(Περιοχή: Ζαγόρι, ανάμεσα στο Μεγάλο και το Μικρό Πάπιγκο)*
 
@@ -64,18 +73,6 @@ load_leaflet: 1
 - **Φωτογράφιση:** Αποτύπωση των φυσικών σχηματισμών χωρίς επέμβαση στο περιβάλλον.
 
 <div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://raw.githubusercontent.com/aboudouris/heritage-promotion/AlexAgni/assets/images/rogovou.jpg') center/cover no-repeat;">
-
-
-<p style="font-size:0.75rem;color:#666;">
-  Φωτογραφία:
-  <a href="https://commons.wikimedia.org/wiki/File:Papingo_rock_pools.jpg"
-     target="_blank" rel="noopener">
-    TatiTobePreskocilo / Wikimedia Commons
-  </a>
-  · CC BY-SA 4.0
-</p>
-
-
   
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(180deg, rgba(0,0,0,0) 50%, rgba(15, 30, 20, 0.6) 100%); display: flex; flex-direction: column; justify-content: space-between; padding: 18px; box-sizing: border-box;">
     
