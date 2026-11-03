@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Beyond the Blue | Μια Διαφορετική Ελλάδα
-# email: inf.dig2504@ionio.gr, inf.2509@ionio.gr
+title: Beyond the Blue Greece | Μια Διαφορετική Ελλάδα
+email: inf.dig2504@ionio.gr, inf.2509@ionio.gr
 description: >- # this means to ignore newlines until "baseurl:"
   Ο ιστοχώρος αυτός αναπτύχτηκε από τους Αγνή Εξάρχου & Αλέξανδρο Μπουντούρη,
   στα πλαίσια εργασίας του μαθήματος "Εργαλεία Προβολής Τουριστικού & Πολιτιστικού Προϊόντος"
