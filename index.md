@@ -43,15 +43,7 @@ Beyond the Blue Greece — Υπάρχει μια Ελλάδα που περιμ�
     Επιλέξτε ένα σημείο στον χάρτη και σχεδιάστε τη δική σας απόδραση!
   </p>
 
-  <iframe
-    src="{{ '/map.html' | relative_url }}"
-    title="Διαδραστικός Χάρτης Beyond the Blue Greece"
-    width="100%"
-    height="650"
-    style="border:0; border-radius:16px;
-           box-shadow:0 5px 20px rgba(0,0,0,0.12);"
-    loading="lazy">
-  </iframe>
+{% include map-content.html %}
 
   <div style="text-align:center; margin-top:20px;">
     <a href="{{ '/map.html' | relative_url }}"
