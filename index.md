@@ -5,11 +5,7 @@ layout: default
 <div style="position:relative; height:500px; border-radius:20px; overflow:hidden; margin-bottom:40px; background:url('https://raw.githubusercontent.com/aboudouris/heritage-promotion/AlexAgni/assets/images/beyondblue.png') center center/cover no-repeat;">
 
 <div style="position:absolute; inset:0; background:rgba(0,0,0,0.20); text-align:center;">
-
-  <h1 style="color:white; font-size:3rem; margin-top:70px;">
-    Beyond the Blue Greece
-  </h1>
-
+  
   <div style="height:140px;"></div>
 
   <p style="color:white; font-size:1.5rem; font-weight:500; letter-spacing:1px;">
