@@ -8,7 +8,7 @@ layout: default
   
   <div style="height:140px;"></div>
   
-  <div style="text-align:center; margin-top:140px;">
+  <div style="text-align:center; margin-top:210px;">
   <a href="/heritage-promotion/pois/"
      style="display:inline-block; background:#1b7f5a; color:white; padding:12px 24px; border-radius:30px; text-decoration:none; font-weight:bold;">
     ✨Rivers, Mountains & Hidden Heritage
