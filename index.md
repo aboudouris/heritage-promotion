@@ -7,16 +7,13 @@ layout: default
 <div style="position:absolute; inset:0; background:rgba(0,0,0,0.20); text-align:center;">
   
   <div style="height:140px;"></div>
-
-  <p style="color:white; font-size:1.5rem; font-weight:500; letter-spacing:1px;">
-  Discover the Untamed West 
   
-  </p>
-
+  <div style="text-align:center; margin-top:40px;">
   <a href="/heritage-promotion/pois/"
-     style="display:inline-block; margin-top:20px; background:#1b7f5a; color:white; padding:12px 24px; border-radius:30px; text-decoration:none; font-weight:bold;">
-  ✨Rivers, Mountains & Hidden Heritage
+     style="display:inline-block; background:#1b7f5a; color:white; padding:12px 24px; border-radius:30px; text-decoration:none; font-weight:bold;">
+    ✨Rivers, Mountains & Hidden Heritage
   </a>
+</div>
 
 </div>
 
