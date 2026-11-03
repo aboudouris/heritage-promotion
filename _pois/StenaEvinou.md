@@ -2,6 +2,7 @@
 layout: poi
 title: "Στενά Ευήνου"
 category: hiking
+wikidatum: Q141986686
 card_description: "Δραματικό ποτάμιο τοπίο με απόκρημνες πλαγιές και απαιτητικές εξορμήσεις πεζοπορίας."
 load_leaflet: 1
 ---
