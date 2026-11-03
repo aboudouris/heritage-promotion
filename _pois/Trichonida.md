@@ -31,7 +31,7 @@ load_leaflet: 1
 
 - **Παρατήρηση Πουλιών:** Ανακαλύψτε είδη της τοπικής ορνιθοπανίδας στους υγροτόπους της περιοχής.
 
-<div style="position: relative; max-width: 100%; height: 320px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://github.com/aboudouris/heritage-promotion/blob/AlexAgni/_pois/trichonida.png') center/cover no-repeat;">
+<div style="position: relative; max-width: 100%; height: 320px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://raw.githubusercontent.com/aboudouris/heritage-promotion/AlexAgni/assets/images/trichonida.png') center/cover no-repeat;">
 
  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(180deg, rgba(0,0,0,0) 50%, rgba(15, 30, 20, 0.6) 100%); display: flex; flex-direction: column; padding: 18px; box-sizing: border-box;">
 
