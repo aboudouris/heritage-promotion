@@ -4,7 +4,7 @@ layout: default
 
 <div style="position:relative; height:500px; border-radius:20px; overflow:hidden; margin-bottom:40px; background:url('https://raw.githubusercontent.com/aboudouris/heritage-promotion/AlexAgni/assets/images/beyondblue.png') center center/cover no-repeat;">
 
-<div style="position:absolute; inset:0; background:rgba(0,0,0,0.20);
+<div style="position:absolute; inset:0; 
             display:flex; justify-content:center; align-items:flex-end;
             padding:0 20px 50px; box-sizing:border-box;">
 
