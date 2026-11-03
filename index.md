@@ -18,6 +18,22 @@ layout: default
 </div>
 
 </div>
+
+
+<div style="position:absolute; inset:0; background:rgba(0,0,0,0.20);
+            display:flex; justify-content:center; align-items:flex-end;
+            padding:0 20px 50px; box-sizing:border-box;">
+
+  <a href="{{ '/pois/' | relative_url }}"
+     style="display:inline-block; background:#1b7f5a; color:white;
+            padding:12px 24px; border-radius:30px; text-decoration:none;
+            font-weight:bold;">
+    ✨ Rivers, Mountains &amp; Hidden Heritage
+  </a>
+
+</div>
+
+
  
 ## Καλωσορίσατε
 
