@@ -8,24 +8,6 @@ load_leaflet: 1
 ---
 
 ## Κολυμπήθρες Ρογκοβού
-*(Περιοχή: Ζαγόρι, ανάμεσα στο Μεγάλο και το Μικρό Πάπιγκο)*
-
-<p style="text-align: justify;">
-Οι <strong>Κολυμπήθρες Ρογκοβού</strong>, γνωστές και ως Οβίρες, σχηματίζονται στο ρέμα Ρογκοβού ανάμεσα στο Μεγάλο και το Μικρό Πάπιγκο. Οι λείες βραχώδεις επιφάνειες και οι μικρές υδάτινες λεκάνες δημιουργούν ένα ξεχωριστό τοπίο μέσα στο Ζαγόρι.
-</p>
-
-<div style="margin-top: 25px;">
-  <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #2d6a4f; background-color: #e8f5e9; padding: 3px 10px; border-radius: 4px;">
-    Outdoor & Heritage Guide
-  </span>
-  <h3 style="margin: 6px 0 15px 0; color: #1b4332; font-size: 1.3rem;">Προτεινόμενες Δραστηριότητες</h3>
-</div>
-
-- **Περίπατος στο ρέμα:** Σύντομη προσέγγιση και εξερεύνηση των βραχωδών σχηματισμών.
-- **Καλοκαιρινή βουτιά:** Μόνο όταν η στάθμη και η ροή του νερού επιτρέπουν ασφαλή πρόσβαση.
-- **Φωτογράφιση:** Αποτύπωση των φυσικών σχηματισμών χωρίς επέμβαση στο περιβάλλον.
-
-<div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://raw.githubusercontent.com/aboudouris/heritage-promotion/AlexAgni/assets/images/rogovou.jpg') center/cover no-repeat;">
 
 
 <div style="
@@ -62,6 +44,27 @@ load_leaflet: 1
     </h3>
   </div>
 </div>
+
+
+*(Περιοχή: Ζαγόρι, ανάμεσα στο Μεγάλο και το Μικρό Πάπιγκο)*
+
+<p style="text-align: justify;">
+Οι <strong>Κολυμπήθρες Ρογκοβού</strong>, γνωστές και ως Οβίρες, σχηματίζονται στο ρέμα Ρογκοβού ανάμεσα στο Μεγάλο και το Μικρό Πάπιγκο. Οι λείες βραχώδεις επιφάνειες και οι μικρές υδάτινες λεκάνες δημιουργούν ένα ξεχωριστό τοπίο μέσα στο Ζαγόρι.
+</p>
+
+<div style="margin-top: 25px;">
+  <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #2d6a4f; background-color: #e8f5e9; padding: 3px 10px; border-radius: 4px;">
+    Outdoor & Heritage Guide
+  </span>
+  <h3 style="margin: 6px 0 15px 0; color: #1b4332; font-size: 1.3rem;">Προτεινόμενες Δραστηριότητες</h3>
+</div>
+
+- **Περίπατος στο ρέμα:** Σύντομη προσέγγιση και εξερεύνηση των βραχωδών σχηματισμών.
+- **Καλοκαιρινή βουτιά:** Μόνο όταν η στάθμη και η ροή του νερού επιτρέπουν ασφαλή πρόσβαση.
+- **Φωτογράφιση:** Αποτύπωση των φυσικών σχηματισμών χωρίς επέμβαση στο περιβάλλον.
+
+<div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://raw.githubusercontent.com/aboudouris/heritage-promotion/AlexAgni/assets/images/rogovou.jpg') center/cover no-repeat;">
+
 
 <p style="font-size:0.75rem;color:#666;">
   Φωτογραφία:
