@@ -2,7 +2,7 @@
 layout: poi
 title: "Μονοπάτι της Βίδρας"
 category: hiking
-wikidatum: (Q141986346)
+wikidatum: Q141986346
 card_description: "Παραποτάμια πεζοπορική διαδρομή που αναδεικνύει τη φύση και τα γεφύρια του Αράχθου."
 load_leaflet: 1
 ---
