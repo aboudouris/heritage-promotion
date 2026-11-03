@@ -39,7 +39,7 @@ load_leaflet: 1
       font-size:1.5rem;
       text-shadow:0 2px 5px #000;
     ">
-      Κολυμπήθρες Ρογκοβού
+      Παραλία Φωτμού
     </h3>
   </div>
 </div>
