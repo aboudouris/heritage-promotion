@@ -7,7 +7,7 @@ layout: default
 </div>
 
 <div style="position:absolute; inset:0; background:rgba(0,0,0,0.20);
-            display:flex; justify-content:right; align-items:flex-end;
+            display:flex; justify-content:center; align-items:flex-end;
             padding:0 20px 50px; box-sizing:border-box;">
 
   <a href="{{ '/pois/' | relative_url }}"
