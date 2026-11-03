@@ -36,7 +36,7 @@ load_leaflet: 1
 
     <div style="text-align: center; margin-top: auto;">
       <h3 style="color: #ffffff; margin: 0 0 10px 0; font-size: 1.2rem; font-weight: 600; text-shadow: 0 2px 4px rgba(0,0,0,0.8);">
-        Εξερευνήστε τον Αρχαιολογικό Χώρο Θέρμου
+        Εξερευνήστε την Παραλία Φωτμού
       </h3>
 
       <a href="https://www.youtube.com/watch?v=PR7kdm45HX8&list=RDPR7kdm45HX8&start_radio=1 " target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 8px; background-color: #2d6a4f; color: #ffffff; text-decoration: none; padding: 8px 20px; border_radius: 25px; font-weight: 500; font-size: 0.88rem; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.2);">
