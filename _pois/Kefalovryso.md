@@ -2,6 +2,7 @@
 layout: poi
 title: "Καταρράκτης Κεφαλόβρυσος"
 category: waterfall
+wikidatum: Q141986580
 card_description: "Ορεινός καταρράκτης στην περιοχή των Μελισσουργών, προορισμός για φυσιολάτρες και πεζοπόρους."
 load_leaflet: 1
 ---
