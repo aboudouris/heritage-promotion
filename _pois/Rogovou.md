@@ -40,7 +40,7 @@ load_leaflet: 1
             Εξερευνήστε τις Κολυμπήθρες Ρογκοβού
       </h3>
 
-      <a href="https://www.youtube.com/watch?v=LRpFjS982pw&list=RDLRpFjS982pw&start_radio=1" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 8px; background-color: #2d6a4f; color: #ffffff; text-decoration: none; padding: 8px 20px; border_radius: 25px; font-weight: 500; font-size: 0.88rem; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.2);">
+      <a href="https://www.youtube.com/watch?v=QnsZ57cIU6w" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 8px; background-color: #2d6a4f; color: #ffffff; text-decoration: none; padding: 8px 20px; border_radius: 25px; font-weight: 500; font-size: 0.88rem; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.2);">
         <span>🎬</span> Προβολή Βίντεο
       </a>
     </div>
@@ -55,3 +55,52 @@ load_leaflet: 1
 <div style="margin-top: 15px; padding: 12px 16px; background: #fff8e1; border-left: 4px solid #b7791f; border-radius: 8px; color: #654321;">
   ⚠️ <strong>Χρήσιμη επισήμανση:</strong> Το βρεγμένο πέτρωμα γλιστρά πολύ. Αποφύγετε τις βάθρες μετά από βροχή ή με έντονη ροή.
 </div>
+
+
+
+
+
+
+<div style="
+  position:relative;
+  height:340px;
+  border-radius:16px;
+  overflow:hidden;
+  margin:30px 0;
+  background:
+    linear-gradient(180deg,
+      rgba(0,0,0,0.05),
+      rgba(0,0,0,0.7)),
+    url('https://commons.wikimedia.org/wiki/Special:FilePath/Papingo_rock_pools.jpg?width=1200')
+    center/cover no-repeat;
+  box-shadow:0 10px 25px rgba(0,0,0,0.15);
+">
+
+  <div style="
+    position:absolute;
+    inset:0;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:flex-end;
+    text-align:center;
+    padding:25px;
+  ">
+    <h3 style="
+      color:white;
+      font-size:1.5rem;
+      text-shadow:0 2px 5px #000;
+    ">
+      Κολυμπήθρες Ρογκοβού
+    </h3>
+  </div>
+</div>
+
+<p style="font-size:0.75rem;color:#666;">
+  Φωτογραφία:
+  <a href="https://commons.wikimedia.org/wiki/File:Papingo_rock_pools.jpg"
+     target="_blank" rel="noopener">
+    TatiTobePreskocilo / Wikimedia Commons
+  </a>
+  · CC BY-SA 4.0
+</p>
