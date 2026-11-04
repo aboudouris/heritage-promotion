@@ -51,7 +51,7 @@ permalink: /ar-experience/
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <br>
-    <img src="/heritage-promotion/ar/trichonida/trichonidaLake.png" 
+    <img src="/heritage-promotion/ar/trichonida/trichonidaLake.jpg" 
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:300px; width:100%; height:auto; border-radius:10px; margin-top:8px;">
     <br>
