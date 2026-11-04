@@ -53,3 +53,13 @@ load_leaflet: 1
 
   </div>
 </div>
+
+
+<div style="margin-top: 15px; padding: 12px 16px; background: #e8f5e9; border-left: 4px solid #2d6a4f; border-radius: 8px; color: #1b4332;">
+  🏨 <strong>Προτεινόμενη βάση διαμονής:</strong> Θέρμο ή Πετροχώρι, για εύκολη εξερεύνηση της λίμνης Τριχωνίδας, της Παραλίας Φωτμού και του αρχαιολογικού χώρου Θέρμου.
+</div>
+
+<div style="margin-top: 15px; padding: 12px 16px; background: #fff8e1; border-left: 4px solid #b7791f; border-radius: 8px; color: #654321;">
+  ⚠️ <strong>Χρήσιμη επισήμανση:</strong> Η κολύμβηση πρέπει να γίνεται μόνο σε κατάλληλα σημεία, αφού ελεγχθούν οι τοπικές συνθήκες και η ποιότητα των νερών. Σεβαστείτε τους προστατευόμενους υγροτόπους και αποφύγετε την ενόχληση της ορνιθοπανίδας.
+</div>
+
