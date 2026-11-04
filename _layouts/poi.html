@@ -18,7 +18,12 @@ load_leaflet: 1
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Wikidata_Stamp_Rec_Light.svg" style="float:right; width:100px" />
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-<script>var wikidatum = '{{page.wikidatum}}'</script>
+
+<script>
+  var wikidatum = {{ page.wikidatum | jsonify }};
+  var poiTitle = {{ page.title | jsonify }};
+</script>
+
 <script src="{{ '/assets/js/get_wiki_item.js' | relative_url }}"></script>
 
 <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
