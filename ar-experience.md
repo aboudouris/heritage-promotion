@@ -24,9 +24,9 @@ permalink: /ar-experience/
 ## Διαθέσιμες Εμπειρίες AR
 <br>
 
-### 🥽 Ποταμός Αχέροντας
+### 🥽 Άραχθος – Γεφύρι Πλάκας
 
-Ανακαλύψτε τον Αχέροντα μέσα από μια εμπειρία επαυξημένης πραγματικότητας (AR) και εξερευνήστε έναν από τους πιο γνωστούς ποταμούς της ελληνικής φύσης και Μυθολογίας.
+Ανακαλύψτε τον Άραχθο & το εμβληματικό Γεφύρι της Πλάκας μέσα από μια εμπειρία επαυξημένης πραγματικότητας (AR) και γνωρίστε έναν από τους εντυπωσιακότερους ποταμούς της Ηπείρου.
 
 <div style="
   display:flex;
@@ -36,10 +36,10 @@ permalink: /ar-experience/
 ">
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <img src="/heritage-promotion/ar/acheron/acheronqr.png"
-         alt="QR Code Αχέροντα"
+    <img src="/heritage-promotion/ar/rachthosPlaka/arachthosPlakaqr.png"
+         alt="QR Άραχθος – Γεφύρι Πλάκας"
          width="220">
-    <a href="https://pql20.zappar-us.io/4904764058385987457/"
+    <a href="https://pql20.zappar-us.io/4379070872237682889/"
        target="_blank"
        rel="noopener noreferrer"
        style="margin-top:10px; display:inline-block;">
@@ -49,7 +49,7 @@ permalink: /ar-experience/
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p><strong>🎯Στρέψτε την κάμερα του κινητού στη φωτογραφία</strong></p>
-    <img src="/heritage-promotion/assets/images/acheron2.jpg"
+    <img src="/heritage-promotion/ar/arachthosPlaka/arachthosPlaka bridge.jpg"
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:300px; width:100%; height:auto; border-radius:10px; margin-top:8px;">
   </div>
