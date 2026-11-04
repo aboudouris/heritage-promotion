@@ -51,3 +51,13 @@ load_leaflet: 1
 
   </div>
 </div>
+
+
+<div style="margin-top: 15px; padding: 12px 16px; background: #e8f5e9; border-left: 4px solid #2d6a4f; border-radius: 8px; color: #1b4332;">
+  🏨 <strong>Προτεινόμενη βάση διαμονής:</strong> Μονοδένδρι, Αρίστη ή χωριό Βίκος, ανάλογα με τη διαδρομή που επιθυμείτε να ακολουθήσετε.
+</div>
+
+<div style="margin-top: 15px; padding: 12px 16px; background: #fff8e1; border-left: 4px solid #b7791f; border-radius: 8px; color: #654321;">
+  ⚠️ <strong>Χρήσιμη επισήμανση:</strong> Η πλήρης διάσχιση του φαραγγιού είναι απαιτητική και χρειάζεται κατάλληλα παπούτσια, επαρκές νερό και σωστό προγραμματισμό. Αποφύγετε τη διαδρομή κατά τη διάρκεια ή μετά από έντονες βροχοπτώσεις και μην πλησιάζετε τις απροστάτευτες άκρες των γκρεμών.
+</div>
+
