@@ -44,8 +44,7 @@ permalink: /ar-experience/
        target="_blank"
        rel="noopener noreferrer"
        style="margin-top:10px; display:inline-block;">
-      <br>
-      Εναλλακτικός σύνδεσμος QR
+       Εναλλακτικός σύνδεσμος QR
     </a>
   </div>
 
@@ -77,7 +76,6 @@ permalink: /ar-experience/
    <img src="/heritage-promotion/ar/arachthosPlaka/arachthosPlakaqr.png"
          alt="QR Άραχθος – Γεφύρι Πλάκας"
          width="220">
-    <br>
     Εναλλακτικός σύνδεσμος QR
     <a href="https://pql20.zappar-us.io/4379070872237682889/"
        target="_blank"
@@ -88,7 +86,7 @@ permalink: /ar-experience/
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <br>
-    <img src="/heritage-promotion/ar/arachthosPlaka/arachthosPlaka bridge.jpg"
+    <img src="/heritage-promotion/ar/arachthosPlaka/arachthosPlaka.jpg"
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:300px; width:100%; height:auto; border-radius:10px; margin-top:8px;">
     <br>
@@ -122,9 +120,10 @@ permalink: /ar-experience/
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <p><strong>🎯Στρέψτε την κάμερα του κινητού στη φωτογραφία</strong></p>
-    <img src="/heritage-promotion/ar/drakolimni/drakolimni.jpg"
+     <img src="/heritage-promotion/ar/drakolimni/drakolimni.jpg"
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:380px; width:100%; height:auto; border-radius:10px; margin-top:8px;">
+     <br>
+    <p><strong>🎯Στρέψτε την κάμερα του κινητού σας στη φωτογραφία</strong></p>
   </div>
 </div>
