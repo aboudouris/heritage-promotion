@@ -37,25 +37,25 @@ permalink: /ar-experience/
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <br>
-   <img src="/heritage-promotion/ar/arachthosPlaka/trichonidaqr.png"
+   <img src="/heritage-promotion/ar/trichonida/trichonidaqr.png"
          alt="QR Λίμνη Τριχωνίδα"
          width="220">
     <a href="https://pql20.zappar-us.io/4379070872237682889/"
        target="_blank"
        rel="noopener noreferrer"
        style="margin-top:10px; display:inline-block;">
+      <br>
       Εναλλακτικός σύνδεσμος QR
     </a>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <br>
-    <img src="/heritage-promotion/ar/arachthosPlaka/trichonidaLake.png"
     <img src="/heritage-promotion/ar/trichonida/trichonidaLake.png" 
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:300px; width:100%; height:auto; border-radius:10px; margin-top:8px;">
     <br>
-    <p><strong>🎯Στρέψτε την κάμερα του κινητού στη φωτογραφία</strong></p>
+    <p><strong>🎯Στρέψτε την κάμερα του κινητού σας στη φωτογραφία</strong></p>
   </div>
 </div>
 
@@ -81,6 +81,7 @@ permalink: /ar-experience/
        target="_blank"
        rel="noopener noreferrer"
        style="margin-top:10px; display:inline-block;">
+      <br>
       Εναλλακτικός σύνδεσμος QR
     </a>
   </div>
@@ -90,8 +91,8 @@ permalink: /ar-experience/
     <img src="/heritage-promotion/ar/arachthosPlaka/arachthosPlaka bridge.jpg"
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:300px; width:100%; height:auto; border-radius:10px; margin-top:8px;">
-    
-    <p><strong>🎯Στρέψτε την κάμερα του κινητού στη φωτογραφία</strong></p>
+    <br>
+    <p><strong>🎯Στρέψτε την κάμερα του κινητού σας στη φωτογραφία</strong></p>
   </div>
 </div>
 
