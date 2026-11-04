@@ -37,7 +37,7 @@ permalink: /ar-experience/
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <br>
-   <img src="/heritage-promotion/ar/arachthosPlaka/arachthosPlakaqr.png">
+   <img src="/heritage-promotion/ar/arachthosPlaka/arachthosPlakaqr.png"
          alt="QR Άραχθος – Γεφύρι Πλάκας"
          width="220">
     <a href="https://pql20.zappar-us.io/4379070872237682889/"
