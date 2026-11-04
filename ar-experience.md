@@ -24,6 +24,41 @@ permalink: /ar-experience/
 ## Διαθέσιμες Εμπειρίες AR
 <br>
 
+### 🥽 Λίμνη Τριχωνίδα 
+
+Ανακαλύψτε τη Λίμνη Τριχωνίδα μέσα από μια εμπειρία επαυξημένης πραγματικότητας (AR) και γνωρίστε τη μεγαλύτερη φυσική λίμνη της Ελλάδας
+
+<div style="
+  display:flex;
+  flex-wrap:wrap;
+  gap:15px;
+  align-items:flex-start;
+">
+
+  <div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <br>
+   <img src="/heritage-promotion/ar/arachthosPlaka/trichonidaqr.png"
+         alt="QR Άραχθος – Γεφύρι Πλάκας"
+         width="220">
+    <a href="https://pql20.zappar-us.io/4379070872237682889/"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="margin-top:10px; display:inline-block;">
+      Εναλλακτικός σύνδεσμος QR
+    </a>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:flex-start;">
+     <br>
+    <img src="/heritage-promotion/ar/arachthosPlaka/trichonidaLake.png"
+         alt="Εικόνα ενεργοποίησης AR"
+         style="max-width:300px; width:100%; height:auto; border-radius:10px; margin-top:8px;">
+    <p><strong>🎯Στρέψτε την κάμερα του κινητού στη φωτογραφία</strong></p>
+  </div>
+</div>
+
+<hr style="margin:50px 0;">
+
 ### 🥽 Άραχθος – Γεφύρι Πλάκας
 
 Ανακαλύψτε τον Άραχθο & το εμβληματικό Γεφύρι της Πλάκας μέσα από μια εμπειρία επαυξημένης πραγματικότητας (AR) και γνωρίστε έναν από τους εντυπωσιακότερους ποταμούς της Ηπείρου.
@@ -49,10 +84,11 @@ permalink: /ar-experience/
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <p><strong>🎯Στρέψτε την κάμερα του κινητού στη φωτογραφία</strong></p>
+    <br>
     <img src="/heritage-promotion/ar/arachthosPlaka/arachthosPlaka bridge.jpg"
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:300px; width:100%; height:auto; border-radius:10px; margin-top:8px;">
+    <p><strong>🎯Στρέψτε την κάμερα του κινητού στη φωτογραφία</strong></p>
   </div>
 </div>
 
