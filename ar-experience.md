@@ -27,7 +27,7 @@ permalink: /ar-experience/
 ### 🥽 Άραχθος – Γεφύρι Πλάκας
 
 Ανακαλύψτε τον Άραχθο & το εμβληματικό Γεφύρι της Πλάκας μέσα από μια εμπειρία επαυξημένης πραγματικότητας (AR) και γνωρίστε έναν από τους εντυπωσιακότερους ποταμούς της Ηπείρου.
-<br>
+
 <div style="
   display:flex;
   flex-wrap:wrap;
@@ -36,6 +36,7 @@ permalink: /ar-experience/
 ">
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <br>
    <img src="/heritage-promotion/ar/arachthosPlaka/arachthosPlakaqr.png">
          alt="QR Άραχθος – Γεφύρι Πλάκας"
          width="220">
