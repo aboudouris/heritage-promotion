@@ -53,3 +53,13 @@ load_leaflet: 1
 
   </div>
 </div>
+
+
+<div style="margin-top: 15px; padding: 12px 16px; background: #e8f5e9; border-left: 4px solid #2d6a4f; border-radius: 8px; color: #1b4332;">
+  🏨 <strong>Προτεινόμενη βάση διαμονής:</strong> Αρίστη ή Πάπιγκο, με εύκολη πρόσβαση στα σημεία ενδιαφέροντος του Βοϊδομάτη και στο δυτικό Ζαγόρι.
+</div>
+
+<div style="margin-top: 15px; padding: 12px 16px; background: #fff8e1; border-left: 4px solid #b7791f; border-radius: 8px; color: #654321;">
+  ⚠️ <strong>Χρήσιμη επισήμανση:</strong> Τα νερά του Βοϊδομάτη είναι ιδιαίτερα κρύα ακόμη και το καλοκαίρι. Αποφύγετε την κολύμβηση σε σημεία με ισχυρό ρεύμα και επιλέξτε οργανωμένες δραστηριότητες με κατάλληλο εξοπλισμό και έμπειρους συνοδούς.
+</div>
+
