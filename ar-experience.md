@@ -40,7 +40,8 @@ permalink: /ar-experience/
    <img src="/heritage-promotion/ar/trichonida/trichonidaqr.png"
          alt="QR Λίμνη Τριχωνίδα"
          width="220">
-    <a href="https://pql20.zappar-us.io/4379070872237682889/"
+    <a href="https://pql20.zappar-us.io/8722305085956561509/"
+      
        target="_blank"
        rel="noopener noreferrer"
        style="margin-top:10px; display:inline-block;">
