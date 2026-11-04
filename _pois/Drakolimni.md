@@ -63,3 +63,13 @@ load_leaflet: 1
 🥽 Ζήστε την εμπειρία επαυξημένης πραγματικότητας (AR) για τη Δρακολίμνη Τύμφης στην ενότητα
 <a href="/heritage-promotion/ar-experience/"><strong>AR Experience</strong></a>.
 </div>
+
+
+<div style="margin-top: 15px; padding: 12px 16px; background: #e8f5e9; border-left: 4px solid #2d6a4f; border-radius: 8px; color: #1b4332;">
+  🏨 <strong>Προτεινόμενη βάση διαμονής:</strong> Μικρό ή Μεγάλο Πάπιγκο. Για διανυκτέρευση στο βουνό, υπάρχει το Ορειβατικό Καταφύγιο Αστράκας, κατόπιν συνεννόησης.
+</div>
+
+<div style="margin-top: 15px; padding: 12px 16px; background: #fff8e1; border-left: 4px solid #b7791f; border-radius: 8px; color: #654321;">
+  ⚠️ <strong>Χρήσιμη επισήμανση:</strong> Η ανάβαση στη Δρακόλιμνη απαιτεί καλή φυσική κατάσταση και κατάλληλο ορειβατικό εξοπλισμό. Ελέγξτε τις καιρικές συνθήκες και την ύπαρξη χιονιού πριν ξεκινήσετε. Σεβαστείτε το ευαίσθητο οικοσύστημα της αλπικής λίμνης.
+</div>
+
