@@ -123,7 +123,7 @@ permalink: /ar-experience/
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p><strong>🎯Στρέψτε την κάμερα του κινητού στη φωτογραφία</strong></p>
-    <img src="/heritage-promotion/ar/drakolimni.jpg"
+    <img src="/heritage-promotion/ar/drakolimni/drakolimni.jpg"
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:380px; width:100%; height:auto; border-radius:10px; margin-top:8px;">
   </div>
