@@ -8,8 +8,7 @@ description: >-
   και την περιοχή Άρτας–Ιωαννίνων.
 ---
 
-<style>
-.vg-intro {
+<style>.vg-intro {
   padding: 28px;
   border-radius: 16px;
   background: #f0f7f3;
